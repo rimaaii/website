@@ -12,6 +12,7 @@
         margin: 5px;
         padding: 5px;
         display: inline-block;
+        transition: 1s all;
         
     }
     
