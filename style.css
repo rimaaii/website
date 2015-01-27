@@ -43,4 +43,13 @@
         background-size: cover;
     }
     
+    button{
+        color: #FFF;
+        background-color: #F00;
+        border: none;
+        border-radius: 3px;
+        padding: 5px;
+        margin-top: 40px;
+    }
+    
     
