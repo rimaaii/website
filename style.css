@@ -15,6 +15,10 @@
         
     }
     
+      nav a:hover{
+        background-color: #727272;  
+      }
+    
     h2{
       color: #1FCCB2;
     }
