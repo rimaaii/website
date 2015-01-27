@@ -28,6 +28,10 @@
         border-radius: 50%;
     }  
     
+    header h1{
+        font-family: 'Lobster', cursive;
+    }
+    
     h2{
       color: #1FCCB2;
     }
