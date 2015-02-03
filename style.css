@@ -58,6 +58,7 @@ p {
   padding: 20px;
   width: 200px;
   display: inline-block;
+  transition: 1s all;
 }
 
 p:hover{
