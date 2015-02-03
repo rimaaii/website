@@ -77,4 +77,7 @@ p:hover{
     
     footer{
         background-color: #000;
+        height: 150px;
+        text-align: center;
+        background-color: #727272;
     }
