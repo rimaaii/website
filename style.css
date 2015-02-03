@@ -47,13 +47,13 @@
 
 #features{
   background-image: none;
-  background-color: rgba(43, 43, 57, 1);
+  background-color: #0097a7;
   height: 250px;
 }
 
 p {
   color: #FFF;
-  background-color:#E0E066;
+  background-color:#b2ebf2;
   font-family: Impact, Haettenschweiler, “Arial Narrow Bold”, sans-serif; 
   margin: 15px;
   padding: 20px;
@@ -68,7 +68,7 @@ p:hover{
     
     button{
         color: #FFF;
-        background-color: #F00;
+        background-color:#00bcd4;
         border: none;
         border-radius: 3px;
         padding: 5px;
