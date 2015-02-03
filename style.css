@@ -44,6 +44,7 @@
     }
 
 #features{
+  background-image: none;
   background-color: blue;
   height: 250px;
 }
