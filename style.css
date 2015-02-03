@@ -73,7 +73,7 @@ p:hover{
     
     button{
         color: #FFF;
-        background-color:#00bcd4;
+        background-color:rgba(0, 188, 212, 0.75);
         border: none;
         border-radius: 3px;
         padding: 5px;
