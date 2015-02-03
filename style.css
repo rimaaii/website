@@ -48,6 +48,12 @@
   background-color: rgba(43, 43, 57, 1);
   height: 250px;
 }
+
+p {
+  color: #FFF;
+  background-color:#E0E066;
+  font-family: Impact, Haettenschweiler, “Arial Narrow Bold”, sans-serif; 
+}
     
     button{
         color: #FFF;
