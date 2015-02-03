@@ -59,6 +59,10 @@ p {
   width: 200px;
   display: inline-block;
 }
+
+p:hover{
+    margin-top: -10px;
+}
     
     button{
         color: #FFF;
