@@ -93,3 +93,8 @@ p:hover{
 .menu-selected{
   background-color: #00bcd4;
 }
+
+table{
+    width: 1214px;
+    margin: 0 auto;
+}
