@@ -88,3 +88,8 @@ p:hover{
         padding: 50px;
         box-sizing: border-box;
     }
+
+
+.menu-selected{
+  background-color: #00bcd4;
+}
