@@ -98,3 +98,36 @@ table{
     width: 1214px;
     margin: 0 auto;
 }
+
+
+.button {
+   border-top: 1px solid #f7d31e;
+   background: #eb612f;
+   background: -webkit-gradient(linear, left top, left bottom, from(#f7d425), to(#eb612f));
+   background: -webkit-linear-gradient(top, #f7d425, #eb612f);
+   background: -moz-linear-gradient(top, #f7d425, #eb612f);
+   background: -ms-linear-gradient(top, #f7d425, #eb612f);
+   background: -o-linear-gradient(top, #f7d425, #eb612f);
+   padding: 14px 28px;
+   -webkit-border-radius: 4px;
+   -moz-border-radius: 4px;
+   border-radius: 4px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 14px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #bd4c26;
+   background: #bd4c26;
+   color: #ccc;
+   }
+.button:active {
+   border-top-color: #eb612f;
+   background: #eb612f;
+   }
