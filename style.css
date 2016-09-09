@@ -1,45 +1,45 @@
-    
+
     body{
       color: #212121;
       font-family: sans-serif;
       margin: 0;
     }
-    
+
     a{
-            text-decoration: none;  
+            text-decoration: none;
     }
-    
+
     nav a {
         color: #F5F5F5;
         background-color: #9E9E9E;
         border-radius: 2px;
         margin: 5px;
-        padding: 5px;
+        padding: 10px 10px;
         display: inline-block;
         transition: 1s all;
-        
+
     }
-    
+
       nav a:hover{
-        background-color: #727272;  
+        background-color: #00bcd4;
       }
-    
+
     header {
         text-align: center;
     }
-      
+
     header img{
         border-radius: 50%;
-    }  
-    
+    }
+
     header h1{
         font-family: 'Lobster', cursive;
     }
-    
+
     h2{
       color: #00bcd4;
     }
-    
+
     section{
         text-align: center;
         background-image: url(https://s3.amazonaws.com/StartupStockPhotos/20140808_StartupStockPhotos/103.jpg);
@@ -59,7 +59,7 @@
 p {
   color: #FFF;
   background-color:#b2ebf2;
-  font-family: Impact, Haettenschweiler, “Arial Narrow Bold”, sans-serif; 
+  font-family: Impact, Haettenschweiler, “Arial Narrow Bold”, sans-serif;
   margin: 15px;
   padding: 20px;
   width: 200px;
@@ -70,7 +70,7 @@ p {
 p:hover{
     transform: rotate(-7deg);
 }
-    
+
     button{
         color: #FFF;
         background-color:rgba(0, 188, 212, 0.75);
@@ -79,7 +79,7 @@ p:hover{
         padding: 20px;
         margin-top: 120px;
     }
-    
+
     footer{
         background-color: #000;
         height: 150px;
