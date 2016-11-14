@@ -8,15 +8,22 @@
     a{
             text-decoration: none;  
     }
+
+    nav{
+      float: right;
+      margin: 15px;
+    }
     
     nav a {
         color: #F5F5F5;
         background-color: #9E9E9E;
-        border-radius: 2px;
-        margin: 5px;
-        padding: 5px;
+        border-radius: 3px;
+        margin: 10px;
+        padding: 15px;
         display: inline-block;
         transition: 1s all;
+        font-weight: bold;
+
         
     }
     
@@ -25,19 +32,26 @@
       }
     
     header {
-        text-align: center;
+        display: inline-block;
     }
       
     header img{
         border-radius: 50%;
+        float: left;
+        margin: 15px;
     }  
     
     header h1{
         font-family: 'Lobster', cursive;
+        margin-left: 470px;
+
+
     }
     
     h2{
       color: #00bcd4;
+      margin-left: 520px;
+
     }
     
     section{
